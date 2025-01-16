@@ -1,0 +1,21 @@
+credits        : Eamonn de Leastar, David Drohan, WIT
+slack          : https://wit-hdip-comp-sci-19.slack.com/archives/C0168UWN01F
+moodle         : https://moodle.wit.ie/course/view.php?id=132121&section=10
+youtube        : https://www.youtube.com/playlist?list=PLEuhMaR29LyAQS70vVg3qGCfSqNN8gqiq
+parent         : course/wit-hdip-comp-sci-2019.netlify.app
+ignorepin      : 2125
+auth           : 3
+ignore         :
+ #  - topic-00-assignments
+  # topic-00-introduction
+  # topic-01-activities
+  # topic-02-adapters
+  # topic-03-models
+  # topic-04-images
+  # topic-05-maps
+  # topic-06-persistence
+  # topic-07-layouts
+  # topic-08-mvp
+  # topic-09-location
+  # topic-10-rooms
+  # topic-11-firebase
